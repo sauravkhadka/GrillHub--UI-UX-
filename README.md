@@ -14,4 +14,6 @@ Prototypes are created using different component variants. Prototypes are then c
 
 This project is designed in desktop version only and I’ll soon be designing this project for mobile version. 
 
+You can read about the design process in detail in the pdf available in this repository.
+
 Feedbacks are always appreciated.
