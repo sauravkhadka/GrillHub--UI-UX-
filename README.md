@@ -17,3 +17,6 @@ This project is designed in desktop version only and I’ll soon be designing th
 You can read about the design process in detail in the pdf available in this repository.
 
 Feedbacks are always appreciated.
+
+Figma files:- https://www.figma.com/file/rFZexCrgpi6knGTlhmXF5y/GrillHub
+Prototype Link:- https://www.figma.com/proto/rFZexCrgpi6knGTlhmXF5y/GrillHub?node-id=11%3A4&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=11%3A4
